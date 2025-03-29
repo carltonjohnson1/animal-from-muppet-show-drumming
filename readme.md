@@ -8,7 +8,7 @@ Thanks for checking out this this Animal from the muppet show drum kit project.
 
 This was completed as part of a class project in a short course I did with [General Assembly](https://generalassemb.ly/students/courses/front-end-web-development-short-course/london).
 
-This project was focused on getting the javaScript to work currently so that pressing the keys resulted in the right sounds playing. We didn't have to design the page, that was already done for us, we just had to get the JavaScript working.
+This project was focused on getting the javaScript to work currently so that pressing the keys resulted in the right sounds playing. The page was not responsive, though, so I changed some code in terms of the flexbox that allowed it to be more responsive, without having to add breakpoints. 
 
 ## What happens
 
