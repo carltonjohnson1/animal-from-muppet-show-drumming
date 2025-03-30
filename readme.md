@@ -1,14 +1,14 @@
-# Animal Drum kit 🥁
+# Animal Drum kit
 
 [Screenshot of final project](./preview.jpg)
 
-## Welcome! 👋
+## Welcome!
 
 Thanks for checking out this this Animal from the muppet show drum kit project.
 
 This was completed as part of a class project in a short course I did with [General Assembly](https://generalassemb.ly/students/courses/front-end-web-development-short-course/london).
 
-This project was focused on getting the javaScript to work currently so that pressing the keys resulted in the right sounds playing. The page was not responsive, though, so I changed some code in terms of the flexbox that allowed it to be more responsive, without having to add breakpoints. 
+This project was focused on getting the javaScript to work currently so that pressing the keys resulted in the right sounds playing. The background image was provided and the CSS was already done. However, I adjusted and added to the CSS as I saw necessary to make the page responsive and also to change some elements so that it was more accessible in terms of colour contrasts for those with visual impairments.
 
 ## What happens
 
