@@ -69,3 +69,19 @@ body:before {
 }
 
 
+.info {
+  background-color: rgba(0, 0, 0, 0.8);
+  margin: 1rem auto;
+  padding: 0.625rem;
+  color: white;
+  max-width: 37.5rem;
+  border: 0.4rem solid whitesmoke;
+  border-radius: 0.5rem;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+  text-align: center;
+}
+
+.margin {
+  margin: 0 0.5rem;
+}
