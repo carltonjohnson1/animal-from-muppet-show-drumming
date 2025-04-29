@@ -71,7 +71,7 @@ body:before {
 
 .info {
   background-color: rgba(0, 0, 0, 0.8);
-  margin: 1rem auto;
+  margin: 0 auto;
   padding: 0.625rem;
   color: white;
   max-width: 37.5rem;
@@ -83,5 +83,5 @@ body:before {
 }
 
 .margin {
-  margin: 0 0.5rem;
+  margin: 1rem 0.5rem;
 }
